@@ -14,7 +14,7 @@ Através desse mapa de calor é possível ver a distribuição dos avistamentos 
 ![Imagem Demonstrativa](img/mapa-calor.png)
 
 # Formatos de OVNI nos 5 Países com Maior Número de Avistamentos
-Neste gráfico é possível visualizar os diferentes formatos de OVNI registrados nos cinco países com maior número de avistamentos: Estados Unidos, Canadá, Reino Unido, Austrália e México. 
+Neste gráfico é possível visualizar os diferentes formatos de OVNI registrados nos cinco países com maior número de avistamentos: Estados Unidos, Canadá, Reino Unido, Austrália e Alemanha. 
 
 ![Imagem Demonstrativa](img/formatos-e-avistamentos.png)
 
