@@ -9,7 +9,7 @@ Para visualizar os resultados, criei um conjunto de subplots usando a função p
 Os dados utilizados nesta análise foram obtidos a partir da base de dados "UFO Sightings Around the World", disponibilizada no Kaggle. Essa base de dados contém informações sobre mais de 80.000 avistamentos de OVNI registrados em todo o mundo entre 1906 e 2017.
 
 # Avistamentos de OVNI por Estado
-Através desse mapa de calor é possível ver a distribuição dos avistamentos de OVNI por estado. Os estados mais afetados por avistamentos de OVNI são a Califórnia, o Texas, a Flórida e Nova York. É importante destacar que esse mapa de calor se baseia apenas em relatos registrados e, portanto, não representa a totalidade dos avistamentos de OVNI em cada estado.
+Através desse mapa de calor é possível ver a distribuição dos avistamentos de OVNI por estado. Os estados mais afetados por avistamentos de OVNI são a Califórnia, Texas e West Virginia. É importante destacar que esse mapa de calor se baseia apenas em relatos registrados e, portanto, não representa a totalidade dos avistamentos de OVNI em cada estado.
 
 ![Imagem Demonstrativa](img/mapa-calor.png)
 
