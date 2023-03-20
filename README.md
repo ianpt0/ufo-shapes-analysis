@@ -1,5 +1,5 @@
-# Análise de Avistamentos de OVNI 
-Este projeto tem como objetivo analisar os avistamentos de OVNI relatados ao redor do mundo, explorando os diferentes formatos de OVNI e os locais onde os avistamentos ocorrem com maior frequência.
+# Análise de Avistamentos de OVNIs 
+Este projeto tem como objetivo analisar os avistamentos de OVNIs relatados ao redor do mundo, explorando os diferentes formatos de OVNI e os locais onde os avistamentos ocorrem com maior frequência.
 
 Usei Pandas, Matplotlib e Seaborn para analisar quais são os formatos de OVNIs mais comuns em cada país e como eles se comparam entre si.
 
