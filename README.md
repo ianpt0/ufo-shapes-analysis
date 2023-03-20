@@ -24,8 +24,7 @@ Nesse gráfico é possível visualizar os formatos de OVNI mais comuns registrad
 ![Imagem Demonstrativa](img/formatos.png)
 
 # Conclusão
-Concluindo, esta análise dos dados de avistamentos de OVNI ao redor do mundo revela que esses eventos são amplamente relatados em todo o planeta, com diferenças geográficas e de formatos de objetos avistados. Embora a natureza desses eventos ainda seja desconhecida e gere muitas controvérsias, a disponibilidade de grandes quantidades de dados como a utilizada nesta análise, pode ajudar a lançar luz sobre esses eventos e a entender melhor esses fenômenos. Pesquisas adicionais devem ser conduzidas para identificar os fatores que contribuem para esses avistamentos e para entender melhor a natureza e a origem desses objetos não identificados.
-
+A análise revela que esses eventos são amplamente relatados em todo o planeta, com diferenças geográficas e de formatos de objetos avistados. Embora a natureza desses eventos ainda seja desconhecida e gere muitas controvérsias, a disponibilidade de grandes quantidades de dados como a utilizada nesta análise, pode ajudar a lançar luz sobre esses eventos e a entender melhor esses fenômenos. Pesquisas adicionais devem ser conduzidas para identificar os fatores que contribuem para esses avistamentos e para entender melhor a sua natureza e origem.
 
 
 
