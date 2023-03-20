@@ -19,7 +19,7 @@ Neste gráfico é possível visualizar os diferentes formatos de OVNI registrado
 ![Imagem Demonstrativa](img/formatos-e-avistamentos.png)
 
 # Formatos de OVNI Mais Comuns
-Nesse gráfico é possível visualizar os formatos de OVNI mais comuns registrados ao longo do período de 20 anos. O formato mais comum é o "disco voador", seguido pelo "objeto luminoso" e o "triângulo voador".
+Nesse gráfico é possível visualizar os formatos de OVNI mais comuns registrados ao longo do período de 20 anos. O formato mais comum é o "objeto luminoso", seguido pelo "disco voador" e o "triângulo voador".
 
 ![Imagem Demonstrativa](img/formatos.png)
 
