@@ -1,6 +1,10 @@
 # Análise de Avistamentos de OVNI 
 Este projeto tem como objetivo analisar os avistamentos de OVNI relatados ao redor do mundo, explorando os diferentes formatos de OVNI e os locais onde os avistamentos ocorrem com maior frequência.
 
+Usei Pandas, Matplotlib e Seaborn para analisar quais são os formatos de OVNIs mais comuns em cada país e como eles se comparam entre si.
+
+Para visualizar os resultados, criei um conjunto de subplots usando a função plt.subplots() e sns.countplot() do Seaborn para gerar gráficos de contagem para cada país. Depois, ajustei as legendas e os títulos para tornar a visualização mais clara.
+
 # Dados Utilizados
 Os dados utilizados nesta análise foram obtidos a partir da base de dados "UFO Sightings Around the World", disponibilizada no Kaggle. Essa base de dados contém informações sobre mais de 80.000 avistamentos de OVNI registrados em todo o mundo entre 1906 e 2017.
 
